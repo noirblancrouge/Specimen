@@ -4,7 +4,7 @@ import objc
 from GlyphsApp import *
 from GlyphsApp.plugins import *
 from vanilla import *
-from os import * path
+from os import path
 from random import sample
 from json import load
 
